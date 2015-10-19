@@ -1,0 +1,8 @@
+.vs
+*/bin/*
+*/obj/*
+*.pdb
+*.suo
+*.user
+*.sln.docstates
+*.sln.ide/
